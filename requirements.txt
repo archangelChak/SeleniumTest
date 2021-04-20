@@ -67,7 +67,7 @@ pluggy==0.13.1
 prometheus-client==0.7.1
 prompt-toolkit==3.0.3
 protobuf==3.11.2
-py==1.8.1
+py==1.10.0
 pycosat==0.6.3
 pycparser==2.19
 Pygments==2.5.2
